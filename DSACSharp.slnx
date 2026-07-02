@@ -1,6 +1,9 @@
 <Solution>
   <Folder Name="/CSharp/">
     <Project Path="ConsoleApp1/ConditionalStatements.csproj" Id="41e319ab-b814-4448-883f-342ecc5144d5" />
+    <Project Path="Deligates/Deligates.csproj" Id="0e02cc7d-4a7c-4864-8d8c-aa15f10a12cb" />
   </Folder>
-  <Folder Name="/DSA/" />
+  <Folder Name="/DSA/">
+    <Project Path="SumofnNumber/SumofnNumber.csproj" Id="9cb361b5-be27-4b74-9c57-033e28da5845" />
+  </Folder>
 </Solution>
